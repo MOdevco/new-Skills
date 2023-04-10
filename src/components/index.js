@@ -1,0 +1,7 @@
+export {default as Nav } from './nav'
+export {default as Header } from './header'
+export {default as Journey } from './journey'
+export {default as Design1 } from './design1'
+export {default as Design2 } from './design2'
+export {default as Join } from './join'
+export {default as Footer } from './footer'
